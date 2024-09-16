@@ -52,7 +52,7 @@ def main():
   print(f'Model accuracy: {accuracy}')
   
   # Save the model to gcs
-  bucket_name = "github-actions-gcp-1-models"
+  bucket_name = "github-actions-gcp-models-1"
   timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
   blob_name = f"trained_models/model_{timestamp}.joblib"
   save_model_to_gcs(model, bucket_name, blob_name)
