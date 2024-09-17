@@ -25,7 +25,7 @@ Instead of cloning the original repository directly, we'll clone it, then push i
 
 ```bash
 # Clone the template repository
-git clone https://github.com/AshyScripts/github-actions-gcp-lab.git gh-actions-gcp-beginner-lab
+git clone https://github.com/AshyScripts/github-actions-gcp-beginner-lab.git
 
 # Navigate into the new directory
 cd gh-actions-gcp-beginner-lab
