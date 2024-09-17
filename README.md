@@ -17,7 +17,7 @@ By completing this lab, you will:
 
 ### Step 1: Create a New GitHub Repository
 1. Go to GitHub and create a new repository. Name it something like `gh-actions-gcp-beginner-lab`.
-2. Don't initialize the repository with a README, .gitignore
+2. Don't initialize the repository with a README or .gitignore.
 3. Note the URL of your new repository.
 
 ### Step 2: Clone the Template Repository and Set Up Your Project
